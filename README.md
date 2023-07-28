@@ -1,6 +1,6 @@
 
 # Template for Spring Boot application
-Includes web-server on port 9080 
+Includes web-server on port 9080. 
 
 ## Prerequisites:
 - Maven 3
